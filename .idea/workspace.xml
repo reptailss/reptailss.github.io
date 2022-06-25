@@ -1,14 +1,128 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2531b79b-78ad-4b33-aa28-dcdd65251114" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../src/resources/icons/logo/Logo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/../src/App.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/UI/header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/UI/header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/UI/header/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/UI/header/header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/UI/movieInfoView/movieBlock.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/UI/movieInfoView/movieBlock.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/UI/movieView/movie.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/UI/movieView/movie.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/compontents/errorMessage/ErrorMessage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/compontents/errorMessage/ErrorMessage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/compontents/itemMovie/ItemMovie.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/compontents/itemMovie/ItemMovie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/compontents/radioButtons/RadioButtons.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/compontents/radioButtons/RadioButtons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/compontents/sliderMovie/SliderMovie.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/compontents/sliderMovie/SliderMovie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/compontents/sliderMovie/slider.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/compontents/sliderMovie/slider.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/containers/infoMovie/InfoMovie.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/containers/infoMovie/InfoMovie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/containers/similarMovie/SimilarMovie.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/containers/similarMovie/SimilarMovie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/containers/trendingMovie/TrengingMovie.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/containers/trendingMovie/TrengingMovie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/feature/sliceString.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/feature/sliceString.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/pages/home/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/pages/home/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/pages/pagesMovie/PagesMovie.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/pages/pagesMovie/PagesMovie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/resources/icons/Logo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/resources/icons/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/services/MoviedbService.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/services/MoviedbService.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-4" />
     <option name="width" value="1192" />
     <option name="height" value="1048" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="build" type="b2602c69:ProjectViewProjectNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2531b79b-78ad-4b33-aa28-dcdd65251114" name="Default Changelist" comment="" />
+      <created>1656157668894</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656157668894</updated>
+      <workItem from="1656157670239" duration="630000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="630000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
 </project>
